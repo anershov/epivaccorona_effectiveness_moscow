@@ -1,0 +1,95 @@
+table_id,month,age_group,vaccination_status,vaccine_type,outcome,cases,comment
+table_1,june,18-50,V0,unknown,4-severe,974,непривитые
+table_1,june,18-50,V1,unknown,4-severe,15,частично привитые
+table_1,june,18-50,V2,unknown,4-severe,26,полностью привитые
+table_1,june,18-50,V0,unknown,3-medium,10463,непривитые
+table_1,june,18-50,V1,unknown,3-medium,227,частично привитые
+table_1,june,18-50,V2,unknown,3-medium,368,полностью привитые
+table_1,june,18-50,V0,unknown,2-light,88075,непривитые
+table_1,june,18-50,V1,unknown,2-light,2495,частично привитые
+table_1,june,18-50,V2,unknown,2-light,5703,полностью привитые
+table_1,june,18-50,V0,unknown,1-asymptomatic,14623,непривитые
+table_1,june,18-50,V1,unknown,1-asymptomatic,449,частично привитые
+table_1,june,18-50,V2,unknown,1-asymptomatic,1027,полностью привитые
+table_1,june,51-70,V0,unknown,4-severe,2429,непривитые
+table_1,june,51-70,V1,unknown,4-severe,61,частично привитые
+table_1,june,51-70,V2,unknown,4-severe,103,полностью привитые
+table_1,june,51-70,V0,unknown,3-medium,10009,непривитые
+table_1,june,51-70,V1,unknown,3-medium,370,частично привитые
+table_1,june,51-70,V2,unknown,3-medium,833,полностью привитые
+table_1,june,51-70,V0,unknown,2-light,27525,непривитые
+table_1,june,51-70,V1,unknown,2-light,1253,частично привитые
+table_1,june,51-70,V2,unknown,2-light,4726,полностью привитые
+table_1,june,51-70,V0,unknown,1-asymptomatic,4202,непривитые
+table_1,june,51-70,V1,unknown,1-asymptomatic,163,частично привитые
+table_1,june,51-70,V2,unknown,1-asymptomatic,751,полностью привитые
+table_1,june,71-100,V0,unknown,4-severe,3153,непривитые
+table_1,june,71-100,V1,unknown,4-severe,75,частично привитые
+table_1,june,71-100,V2,unknown,4-severe,174,полностью привитые
+table_1,june,71-100,V0,unknown,3-medium,5151,непривитые
+table_1,june,71-100,V1,unknown,3-medium,191,частично привитые
+table_1,june,71-100,V2,unknown,3-medium,606,полностью привитые
+table_1,june,71-100,V0,unknown,2-light,6221,непривитые
+table_1,june,71-100,V1,unknown,2-light,318,частично привитые
+table_1,june,71-100,V2,unknown,2-light,1701,полностью привитые
+table_1,june,71-100,V0,unknown,1-asymptomatic,1398,непривитые
+table_1,june,71-100,V1,unknown,1-asymptomatic,62,частично привитые
+table_1,june,71-100,V2,unknown,1-asymptomatic,364,полностью привитые
+table_1,july,18-50,V0,unknown,4-severe,569,непривитые
+table_1,july,18-50,V1,unknown,4-severe,51,частично привитые
+table_1,july,18-50,V2,unknown,4-severe,21,полностью привитые
+table_1,july,18-50,V0,unknown,3-medium,5792,непривитые
+table_1,july,18-50,V1,unknown,3-medium,627,частично привитые
+table_1,july,18-50,V2,unknown,3-medium,455,полностью привитые
+table_1,july,18-50,V0,unknown,2-light,50304,непривитые
+table_1,july,18-50,V1,unknown,2-light,6979,частично привитые
+table_1,july,18-50,V2,unknown,2-light,6149,полностью привитые
+table_1,july,18-50,V0,unknown,1-asymptomatic,9756,непривитые
+table_1,july,18-50,V1,unknown,1-asymptomatic,986,частично привитые
+table_1,july,18-50,V2,unknown,1-asymptomatic,1019,полностью привитые
+table_1,july,51-70,V0,unknown,4-severe,1478,непривитые
+table_1,july,51-70,V1,unknown,4-severe,89,частично привитые
+table_1,july,51-70,V2,unknown,4-severe,119,полностью привитые
+table_1,july,51-70,V0,unknown,3-medium,5245,непривитые
+table_1,july,51-70,V1,unknown,3-medium,621,частично привитые
+table_1,july,51-70,V2,unknown,3-medium,824,полностью привитые
+table_1,july,51-70,V0,unknown,2-light,15988,непривитые
+table_1,july,51-70,V1,unknown,2-light,2201,частично привитые
+table_1,july,51-70,V2,unknown,2-light,4345,полностью привитые
+table_1,july,51-70,V0,unknown,1-asymptomatic,3097,непривитые
+table_1,july,51-70,V1,unknown,1-asymptomatic,306,частично привитые
+table_1,july,51-70,V2,unknown,1-asymptomatic,695,полностью привитые
+table_1,july,71-100,V0,unknown,4-severe,2297,непривитые
+table_1,july,71-100,V1,unknown,4-severe,60,частично привитые
+table_1,july,71-100,V2,unknown,4-severe,181,полностью привитые
+table_1,july,71-100,V0,unknown,3-medium,2530,непривитые
+table_1,july,71-100,V1,unknown,3-medium,481,частично привитые
+table_1,july,71-100,V2,unknown,3-medium,94,полностью привитые
+table_1,july,71-100,V0,unknown,2-light,3808,непривитые
+table_1,july,71-100,V1,unknown,2-light,270,частично привитые
+table_1,july,71-100,V2,unknown,2-light,1419,полностью привитые
+table_1,july,71-100,V0,unknown,1-asymptomatic,1214,непривитые
+table_1,july,71-100,V1,unknown,1-asymptomatic,60,частично привитые
+table_1,july,71-100,V2,unknown,1-asymptomatic,305,полностью привитые
+table_2,july,18-50,V2,sputnik,4-severe,13,полностью привитые
+table_2,july,18-50,V2,epivac,4-severe,7,полностью привитые
+table_2,july,18-50,V2,kovivac,4-severe,1,полностью привитые
+table_2,july,51-70,V2,sputnik,4-severe,92,полностью привитые
+table_2,july,51-70,V2,epivac,4-severe,24,полностью привитые
+table_2,july,51-70,V2,kovivac,4-severe,3,полностью привитые
+table_2,july,71-100,V2,sputnik,4-severe,151,полностью привитые
+table_2,july,71-100,V2,epivac,4-severe,30,полностью привитые
+table_2,july,71-100,V2,kovivac,4-severe,0,полностью привитые
+table_2,july,18-50,V0,sputnik,4-severe,645,непривитые
+table_2,july,18-50,V0,epivac,4-severe,645,непривитые
+table_2,july,18-50,V0,kovivac,4-severe,645,непривитые
+table_2,july,51-70,V0,sputnik,4-severe,1819,непривитые
+table_2,july,51-70,V0,epivac,4-severe,1819,непривитые
+table_2,july,51-70,V0,kovivac,4-severe,1819,непривитые
+table_2,july,71-100,V0,sputnik,4-severe,2418,непривитые
+table_2,july,71-100,V0,epivac,4-severe,2418,непривитые
+table_2,july,71-100,V0,kovivac,4-severe,2418,непривитые
+table_3,june,18-50,V0,unknown,5-lethal,158,полностью привитые
+table_3,june,18-50,V2,unknown,5-lethal,1,полностью привитые
+table_3,june,51-100,V0,unknown,5-lethal,1700,полностью привитые
+table_3,june,51-100,V2,unknown,5-lethal,70,полностью привитые
